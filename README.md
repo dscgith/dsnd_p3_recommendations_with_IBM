@@ -38,6 +38,8 @@ The data to analyze contains the interactions that users have made with articles
 | :-- | :-- |
 | user-item-interactions.csv | A list of interactions of all users (article_id, article_title and anonymized email as user identification |
 | articles_community.csv | Description and content of the articles |
+| Recommendations_with_IBM.ipynb | Project notebook |
+| Recommendations_with_IBM.html | HTML copy of project notebook |
 
 The following files were provided by Udacity:  
 + user_item_matrix.zip (Pickle file, zipped because of file size)
